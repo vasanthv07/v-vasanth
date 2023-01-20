@@ -23,10 +23,10 @@
 <br><br>
 
 ## 🤝 &nbsp;CONNECT WITH ME:
-<a href='https://www.linkedin.com/in/vasanthv7/'><img align='left' alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height='30px'/>
-<a href='https://github.com/v-vasanth'><img align='left' alt="Github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height='30px'/>
+<a href='https://www.linkedin.com/in/vasanthv7/'><img align='left' alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height='50px'/>
+<a href='https://github.com/v-vasanth'><img align='left' alt="Github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height='50px'/>
 
-<br><br><br><br>
+<br><br>
   
 <p align="center">
         <img src="https://github.com/v-vasanth/items/blob/main/Bottom.svg"/>
