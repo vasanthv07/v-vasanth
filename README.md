@@ -1,26 +1,35 @@
+
 # 👋Hey there. I'm V.Vasanth
 
-◼ Machine Learning & Artificial Intelligence Enthusiast.<br>
-◼ Love coding open-source projects & solving unique problems.<br>
-<img src="https://media.giphy.com/media/3o6ZsZwsU65E0qcok8/giphy.gif" width="250" height="250" img align="right"/>
-<br><br><br>
+◼ Passionate about Machine Learning & Artificial Intelligence.<br>
+◼ Devoted to crafting open-source solutions and tackling unique challenges.<br>
+◼ Enthusiastic about the intersection of technology and data science.<br>
+◼ Seeking collaborative opportunities to build the future with code.<br>
 
+<br><br>
+<img src="https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy-downsized-large.gif" width="250" height="250" />
 ## 🛠 &nbsp;LANGUAGES AND TOOLS:
+<img src="https://media.giphy.com/media/fEa9KJiQ45f4LMdq9g/giphy-downsized-large.gif" width="300" img align="right"/>
 <br>
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/>&nbsp;
-&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>&nbsp;
 </p>
 <br><br>
+
+
+
 
 ## 🤝 &nbsp;CONNECT WITH ME:
 <a href='https://www.linkedin.com/in/vasanthv7/'><img align='left' alt="LinkedIn" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height='50px'/>
