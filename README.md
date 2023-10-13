@@ -1,13 +1,14 @@
-
 # 👋Hey there. I'm V.Vasanth
 
+<img src="https://github.com/vasanthv07/Resources/blob/main/Resources/vg_art.jpg" width="150" align="right" />
 ◼ Passionate about Machine Learning & Artificial Intelligence.<br>
 ◼ Devoted to crafting open-source solutions and tackling unique challenges.<br>
 ◼ Enthusiastic about the intersection of technology and data science.<br>
 ◼ Seeking collaborative opportunities to build the future with code.<br>
 
 <br><br>
-<img src="https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy-downsized-large.gif" width="250" height="250" />
+
+
 ## 🛠 &nbsp;LANGUAGES AND TOOLS:
 <img src="https://media.giphy.com/media/fEa9KJiQ45f4LMdq9g/giphy-downsized-large.gif" width="300" img align="right"/>
 <br>
